@@ -458,6 +458,8 @@ execution (of clauses). It will completely change how you write queries. This [b
 
 
 ### Comment your code!
+The (--) notation is used in front of a comment. (--) doesn't need to be used again at the end of comment. 
+The (--) comment notation is same whether the comment is in a line by itself or wrapped around a line of code.
 While in the moment you know why you did something, if you revisit
 the code weeks, months or years later you might not remember.
 - In general you should strive to write comments that explain why you did something, not how.
